@@ -5,6 +5,7 @@ import Section from './components/Section';
 import Hero from './components/Hero';
 import Benefits from './components/Benefits';
 import Collaboration from './components/Collaboration';
+import Services from './components/Services';
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
     <Hero />
     <Benefits />
     <Collaboration />
+    <Services />
     </div>
   <ButtonGradient />
   </>
